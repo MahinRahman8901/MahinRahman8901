@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahin</h1>
-<h3 align="center">A recent graduate of Computer Science from Queen Mary University of London</h3>
+<h3 align="center">A 3rd Year Computer Science Student from Queen Mary University of London</h3>
 
 <h4 align="center"> I have worked on many different projects including; creating a visual A.I. game using Unity and OpenCV, to creating an app for FDM company to connect mentors to mentees. Feel free to view my projects in order to gather a better understanding of what I am capable off and what I can offer you!</h4>
 
