@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahin</h1>
 <h3 align="center">A recent graduate of Computer Science from Queen Mary University of London</h3>
 
+I have worked on many different projects including; creating a visual A.I. game using Unity and OpenCV, to creating an app for FDM company to connect mentors to mentees.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mahin-rahman-a35477210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahin-rahman-a35477210/" height="30" width="40" /></a>
